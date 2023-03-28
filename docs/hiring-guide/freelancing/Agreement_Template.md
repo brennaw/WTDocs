@@ -1,15 +1,14 @@
-# Business identity
 
-# [Project name] writing agreement
+# \[Project Name]\ service agreement
 
-Introduction: You ([Name] of [Company]) are hiring [Contractor Name] to provide technical communication services.
+# Introduction
+You \[Name]\ of \[Company]\ are hiring \[Contractor Name]\ to provide \[some sort of services]\.
 
 You agree that you have the power to enter into this agreement and:
-To provide the information needed to complete the projects
-
-To review the work, give feedback, and respond to approval requests in a timely manner
-
-To pay according to the rate, invoice, and payment details below
+* To provide the information needed to complete the projects
+* To review the work, give feedback, and respond to approval requests in a timely manner
+* To pay according to the rate, invoice, and payment details below
+* 
  [Contractor Name] agrees to perform the services described below, respect the confidentiality of any confidential information that you provide, and carry out the work in a professional manner.
 
 Project details:
